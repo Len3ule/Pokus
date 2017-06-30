@@ -3,7 +3,7 @@
  */
 public class Pokus {
     public static void main(String[] args) {
-        System.out.println("Moje bába");
+        System.out.println("Moje bbb");
 
     }
 }
