@@ -3,7 +3,7 @@
  */
 public class Pokus {
     public static void main(String[] args) {
-        System.out.println("Mjdeiojd oiwe");
+        System.out.println("Mjdeiojd oiwegt");
 
     }
 }
